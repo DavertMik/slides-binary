@@ -1,5 +1,5 @@
 ##  Обо мне 
 
-* Живу в Киеве
-* Веб-разработчик: PHP, Rails, EmberJS
-* Разрабатываю Codeception и другие прикольные проекты
+* Живу в Киеве, выступаю на конференциях (Framework Days, DevConf, IstanbulPHP)
+* Веб-разработчик: PHP, Rails, EmberJS, NodeJS
+* Разрабатываю Codeception, **CodeceptJS** и другие прикольные проекты 
