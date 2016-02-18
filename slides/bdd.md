@@ -1,3 +1,5 @@
+<!-- .slide: data-background="#C2185B" -->
+
 ##  Behavior Driven Development
 
 * Тесно связана с тестированием

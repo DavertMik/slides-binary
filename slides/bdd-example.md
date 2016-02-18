@@ -1,4 +1,6 @@
-```
+<!-- .slide: data-background="#C2185B" -->
+
+```gherkin
 Story: Account Holder withdraws cash
  
 As an Account Holder

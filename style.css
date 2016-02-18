@@ -1,6 +1,10 @@
 body {
-  background: #455A64 !important;
-  background-color: #455A64 !important;
+  background: #512DA8 !important;
+  background-color: #512DA8 !important;
+}
+
+body .reveal {
+  font-family: 'PT Sans Narrow', sans-serif;
 }
 
 body .reveal h1 {
@@ -20,6 +24,7 @@ body .reveal h2 {
   font-weight: bold; 
   color: rgb(242, 202, 0);
   text-shadow: 0px 2px 2px #333;
+    margin-bottom: 1.5em;
 }
 
 body .reveal h3 {
@@ -28,6 +33,7 @@ body .reveal h3 {
   font-weight: bold;
   color: rgb(242, 202, 0);
   text-shadow: 0px 2px 2px #333;
+    margin-bottom: 2em;
 }
 
 body .reveal h4 {
@@ -36,6 +42,12 @@ body .reveal h4 {
   font-weight: bold;
   color: rgb(242, 202, 0);
   text-shadow: 0px 2px 2px #333;
+  margin-bottom: 1em;
+}
+
+body .reveal li {
+  text-shadow: 0px 1px 1px #333;
+  margin-bottom: 1em;
 }
 
 body .reveal {
