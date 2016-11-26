@@ -13,7 +13,6 @@
     "what-to-test.md",
     "what-not-test.md",
     "price.md",       
-    "alternative.md",     
     "doing-wrong.md",
     "coverage.md",    
     "ci.md",
@@ -29,15 +28,7 @@
     "phpspec.md",
     "behat.md",
     "codeception.md",
-    "codeception-story.md",
-    "codeception-simple.md",
-    "codeception-parts.md",
-    "codeception-code.md",
-    "codeception-rest.md",
-    "codeception-features.md",
-    "codeception-plans.md",
-    "codeception22.md",
-    "codeception-politics.md",
- 
+    "codeception-best-practices.md",
+
     "questions.md"
 ]

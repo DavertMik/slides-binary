@@ -1,5 +1,13 @@
+# Codeception
+
+![](http://codeception.com/images/logo.svg)
+
+---
+
 ## Codeception
 
-Мультиформатный фреймворк 
-
-для приемочных / функциональных / unit и API тестов
+* full stack testing framework
+* модули для решения **90% задач**
+* **универсальное API** модулей
+* **~3.3M** установок на Packagist
+* все уровни тестирования
